@@ -4,9 +4,9 @@
     "slug": "DoneWithIt",
     "version": "1.0.0",
     "orientation": "default",
-    "icon": "./app/assets/icon.png",
+    "icon": "./app/assets/logo-red.png",
     "splash": {
-      "image": "./app/assets/splash.png",
+      "image": "./app/assets/logo-red.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -28,6 +28,6 @@
     "web": {
       "favicon": "./app/assets/favicon.png"
     },
-    "description": ""
+    "description": "Ma première application React Native."
   }
 }
